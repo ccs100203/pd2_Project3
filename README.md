@@ -4,4 +4,4 @@ Touhou
 
 數獨遺失 忘記儲存QQ
 
-shooting game
+shooting game放在雲端上 代補
